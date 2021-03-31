@@ -25,6 +25,7 @@ cd restore-network
 docker-compose -f docker/docker-compose-test-net.yaml up -d
 ```
 ### check
+reference this https://hyperledger-fabric.readthedocs.io/en/release-2.2/test_network.html#interacting-with-the-network
 ```
 export PATH=${PWD}/../bin:$PATH
 export FABRIC_CFG_PATH=$PWD/../config/
