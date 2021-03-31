@@ -1,5 +1,5 @@
 # restore-network
-restore network
+restore network，this project is base on fabric-samples(v2.2.2) test-nework,I has started test-network, and backup it ,then you can restore the network,you need not create channel and join channel,also you need not install chaincode,you can direct query and invoke.make sure you have done this work https://hyperledger-fabric.readthedocs.io/en/release-2.2/test_network.html#before-you-begin ,In simple words，you must have run test-network successfully.
 
 ### stop before fabric network
 
